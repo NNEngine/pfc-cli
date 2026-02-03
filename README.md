@@ -4,6 +4,8 @@
 <img width="2560" height="1440" alt="Let’s Colonize" src="https://github.com/user-attachments/assets/de497ea5-1370-457e-9c80-adc24b4e99a6" />
 
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 pfc is a terminal-first data exploration and visualization tool for CSV files.
 It lets you analyze datasets interactively without leaving the terminal.
 
