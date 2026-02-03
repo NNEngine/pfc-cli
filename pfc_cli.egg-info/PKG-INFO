@@ -1,0 +1,40 @@
+Metadata-Version: 2.4
+Name: pfc-cli
+Version: 0.1.0
+Summary: Terminal-first data exploration and visualization tool for CSV files
+Author-email: Shivam <shivamsharma22468@gmail.com>
+License: MIT
+Keywords: cli,data-analysis,eda,csv,terminal
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: rich
+Dynamic: license-file
+
+# pfc (Pandas For CLI)
+
+pfc is a terminal-first data exploration and visualization tool for CSV files.
+It lets you analyze datasets interactively without leaving the terminal.
+
+## Features
+
+- Load CSV once and explore interactively
+- Head / tail / select / describe
+- Groupby, value_counts, unique
+- Terminal visualizations:
+  - barplot
+  - histogram
+  - lineplot
+  - heatmap
+- Works on Windows, Linux, macOS
+
+## Installation
+
+```bash
+pip install pfc-cli
+```

@@ -1,0 +1,2 @@
+[console_scripts]
+pfc = pfc.main:start
