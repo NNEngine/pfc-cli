@@ -5,8 +5,6 @@ First of all, thank you for taking the time to contribute!
 
 This document explains how to contribute effectively and responsibly.
 
----
-
 ## Ways to Contribute
 
 You can contribute in several ways:
@@ -18,7 +16,6 @@ You can contribute in several ways:
 - 🧪 Adding tests
 - 🎨 Improving UI/UX of terminal output
 
----
 
 ## Getting Started (Development Setup)
 
@@ -49,8 +46,6 @@ This allows you to test changes instantly using:
 pfc
 ```
 
----
-
 ## Project Structure Overview
 
 ```text
@@ -64,7 +59,6 @@ pfc/
 
 Please respect this separation of concerns when adding new features.
 
----
 
 ## Adding a New Command
 
@@ -84,8 +78,6 @@ def run(args):
         console.print("[red]No dataset loaded[/red]")
         return
 ```
-
----
 
 ## Coding Guidelines
 
@@ -108,7 +100,6 @@ def run(args):
   * Minor: `0.x.0` → new features
   * Major: `1.0.0` → stable release
 
----
 
 ## Commit Message Style
 
@@ -133,7 +124,6 @@ When reporting bugs, please include:
 * Full error message or screenshot (if applicable)
 * Sample CSV (if possible)
 
----
 
 ## Feature Requests
 
@@ -143,7 +133,6 @@ Feature requests are welcome. Please describe:
 * Why it fits the philosophy of `pfc-cli`
 * Example usage (CLI syntax preferred)
 
----
 
 ## Philosophy of the Project
 
@@ -157,14 +146,12 @@ Feature requests are welcome. Please describe:
 
 Please keep this philosophy in mind when proposing changes.
 
----
 
 ## Code of Conduct
 
 Be respectful and constructive.
 Harassment, discrimination, or toxic behavior will not be tolerated.
 
----
 
 ## Final Note
 
