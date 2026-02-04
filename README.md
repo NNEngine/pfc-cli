@@ -21,6 +21,11 @@ It lets you analyze datasets interactively without leaving the terminal.
   - heatmap
 - Works on Windows, Linux, macOS
 
+ To see all available commands, type:
+```
+help
+```
+
 ## Installation
 
 ```bash
