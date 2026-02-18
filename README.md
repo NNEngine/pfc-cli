@@ -11,7 +11,8 @@ It lets you analyze datasets interactively without leaving the terminal.
 
 ## Features
 
-- Load CSV once and explore interactively
+- Load CSV once and explore
+- interactively
 - Head / tail / select / describe
 - Groupby, value_counts, unique
 - Terminal visualizations:
